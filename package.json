@@ -1,6 +1,6 @@
 {
-  "name": "onpdpglxgmy.angular",
-  "version": "0.0.0",
+  "name": "juhankauppa",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "rxjs": "6.5.3",
