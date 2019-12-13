@@ -1,5 +1,7 @@
 Harjoitustyö: Juha Luukkonen
 
+Soon deployed: https://juhankauppa.herokuapp.com/
+
 # Kauppa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
