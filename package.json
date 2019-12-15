@@ -5,6 +5,9 @@
   "engines": {
     "node": "12.13.1"
   },
+  "engines": {
+    "npm": "6.x"
+  },
   "dependencies": {
     "rxjs": "6.5.3",
     "tslib": "1.10.0",
