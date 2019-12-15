@@ -1,16 +1,10 @@
 {
-  "name": "juhankauppa",
-  "description": "a really cool online storeapp",
-  "version": "1.0.0",
-  "engines": {
-    "node": "12.13.1"
-  }
-}
-
-{
   "name": "onpdpglxgmy.angular",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "12.13.1"
+  },
   "dependencies": {
     "rxjs": "6.5.3",
     "tslib": "1.10.0",
