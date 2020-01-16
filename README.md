@@ -1,4 +1,4 @@
-Harjoitustyö: Juha Luukkonen
+Author: Juha Luukkonen
 
 Soon deployed: https://juhankauppa.herokuapp.com/
 
